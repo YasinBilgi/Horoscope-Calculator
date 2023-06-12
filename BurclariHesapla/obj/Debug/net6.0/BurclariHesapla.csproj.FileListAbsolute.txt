@@ -1,0 +1,15 @@
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\bin\Debug\net6.0\BurclariHesapla.exe
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\bin\Debug\net6.0\BurclariHesapla.deps.json
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\bin\Debug\net6.0\BurclariHesapla.runtimeconfig.json
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\bin\Debug\net6.0\BurclariHesapla.dll
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\bin\Debug\net6.0\BurclariHesapla.pdb
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\obj\Debug\net6.0\BurclariHesapla.csproj.AssemblyReference.cache
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\obj\Debug\net6.0\BurclariHesapla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\obj\Debug\net6.0\BurclariHesapla.AssemblyInfoInputs.cache
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\obj\Debug\net6.0\BurclariHesapla.AssemblyInfo.cs
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\obj\Debug\net6.0\BurclariHesapla.csproj.CoreCompileInputs.cache
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\obj\Debug\net6.0\BurclariHesapla.dll
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\obj\Debug\net6.0\refint\BurclariHesapla.dll
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\obj\Debug\net6.0\BurclariHesapla.pdb
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\obj\Debug\net6.0\BurclariHesapla.genruntimeconfig.cache
+C:\Users\yasin\OneDrive\Documents\Homeworks\BurclariHesapla\BurclariHesapla\obj\Debug\net6.0\ref\BurclariHesapla.dll
